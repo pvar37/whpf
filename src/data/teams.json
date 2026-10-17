@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1610612737,
+    "name": "Atlanta Hawks",
+    "city": "Atlanta",
+    "nickname": "Hawks",
+    "abbr": "ATL",
+    "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+  },
+  {
+    "id": 1610612738,
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "nickname": "Celtics",
+    "abbr": "BOS",
+    "logo": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg"
+  },
+  {
+    "id": 1610612739,
+    "name": "Cleveland Cavaliers",
+    "city": "Cleveland",
+    "nickname": "Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+  },
+  {
+    "id": 1610612740,
+    "name": "New Orleans Pelicans",
+    "city": "New Orleans",
+    "nickname": "Pelicans",
+    "abbr": "NOP",
+    "logo": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg"
+  },
+  {
+    "id": 1610612741,
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "nickname": "Bulls",
+    "abbr": "CHI",
+    "logo": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg"
+  },
+  {
+    "id": 1610612742,
+    "name": "Dallas Mavericks",
+    "city": "Dallas",
+    "nickname": "Mavericks",
+    "abbr": "DAL",
+    "logo": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg"
+  },
+  {
+    "id": 1610612743,
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "nickname": "Nuggets",
+    "abbr": "DEN",
+    "logo": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg"
+  },
+  {
+    "id": 1610612744,
+    "name": "Golden State Warriors",
+    "city": "Golden State",
+    "nickname": "Warriors",
+    "abbr": "GSW",
+    "logo": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg"
+  },
+  {
+    "id": 1610612745,
+    "name": "Houston Rockets",
+    "city": "Houston",
+    "nickname": "Rockets",
+    "abbr": "HOU",
+    "logo": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg"
+  },
+  {
+    "id": 1610612746,
+    "name": "Los Angeles Clippers",
+    "city": "Los Angeles",
+    "nickname": "Clippers",
+    "abbr": "LAC",
+    "logo": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg"
+  },
+  {
+    "id": 1610612747,
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "nickname": "Lakers",
+    "abbr": "LAL",
+    "logo": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg"
+  },
+  {
+    "id": 1610612748,
+    "name": "Miami Heat",
+    "city": "Miami",
+    "nickname": "Heat",
+    "abbr": "MIA",
+    "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+  },
+  {
+    "id": 1610612749,
+    "name": "Milwaukee Bucks",
+    "city": "Milwaukee",
+    "nickname": "Bucks",
+    "abbr": "MIL",
+    "logo": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg"
+  },
+  {
+    "id": 1610612750,
+    "name": "Minnesota Timberwolves",
+    "city": "Minnesota",
+    "nickname": "Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg"
+  },
+  {
+    "id": 1610612751,
+    "name": "Brooklyn Nets",
+    "city": "Brooklyn",
+    "nickname": "Nets",
+    "abbr": "BKN",
+    "logo": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg"
+  },
+  {
+    "id": 1610612752,
+    "name": "New York Knicks",
+    "city": "New York",
+    "nickname": "Knicks",
+    "abbr": "NYK",
+    "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+  },
+  {
+    "id": 1610612753,
+    "name": "Orlando Magic",
+    "city": "Orlando",
+    "nickname": "Magic",
+    "abbr": "ORL",
+    "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+  },
+  {
+    "id": 1610612754,
+    "name": "Indiana Pacers",
+    "city": "Indiana",
+    "nickname": "Pacers",
+    "abbr": "IND",
+    "logo": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg"
+  },
+  {
+    "id": 1610612755,
+    "name": "Philadelphia 76ers",
+    "city": "Philadelphia",
+    "nickname": "76ers",
+    "abbr": "PHI",
+    "logo": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg"
+  },
+  {
+    "id": 1610612756,
+    "name": "Phoenix Suns",
+    "city": "Phoenix",
+    "nickname": "Suns",
+    "abbr": "PHX",
+    "logo": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg"
+  },
+  {
+    "id": 1610612757,
+    "name": "Portland Trail Blazers",
+    "city": "Portland",
+    "nickname": "Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+  },
+  {
+    "id": 1610612758,
+    "name": "Sacramento Kings",
+    "city": "Sacramento",
+    "nickname": "Kings",
+    "abbr": "SAC",
+    "logo": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg"
+  },
+  {
+    "id": 1610612759,
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "nickname": "Spurs",
+    "abbr": "SAS",
+    "logo": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg"
+  },
+  {
+    "id": 1610612760,
+    "name": "Oklahoma City Thunder",
+    "city": "Oklahoma City",
+    "nickname": "Thunder",
+    "abbr": "OKC",
+    "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+  },
+  {
+    "id": 1610612761,
+    "name": "Toronto Raptors",
+    "city": "Toronto",
+    "nickname": "Raptors",
+    "abbr": "TOR",
+    "logo": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg"
+  },
+  {
+    "id": 1610612762,
+    "name": "Utah Jazz",
+    "city": "Utah",
+    "nickname": "Jazz",
+    "abbr": "UTA",
+    "logo": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg"
+  },
+  {
+    "id": 1610612763,
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "nickname": "Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg"
+  },
+  {
+    "id": 1610612764,
+    "name": "Washington Wizards",
+    "city": "Washington",
+    "nickname": "Wizards",
+    "abbr": "WAS",
+    "logo": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
+  },
+  {
+    "id": 1610612765,
+    "name": "Detroit Pistons",
+    "city": "Detroit",
+    "nickname": "Pistons",
+    "abbr": "DET",
+    "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+  },
+  {
+    "id": 1610612766,
+    "name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "nickname": "Hornets",
+    "abbr": "CHA",
+    "logo": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg"
+  }
+]
