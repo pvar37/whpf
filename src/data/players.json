@@ -8,22 +8,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642933.png"
   },
   {
-    "id": 1642937,
-    "name": "Kobe Johnson",
-    "team_id": 1610612737,
-    "team_name": "Atlanta Hawks",
-    "team_abbr": "ATL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642937.png"
-  },
-  {
-    "id": 1643723,
-    "name": "Cameron Corhen",
-    "team_id": 1610612737,
-    "team_name": "Atlanta Hawks",
-    "team_abbr": "ATL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643723.png"
-  },
-  {
     "id": 1642484,
     "name": "RayJ Dennis",
     "team_id": 1610612737,
@@ -160,30 +144,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629111.png"
   },
   {
-    "id": 1642870,
-    "name": "Milos Uzan",
-    "team_id": 1610612738,
-    "team_name": "Boston Celtics",
-    "team_abbr": "BOS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642870.png"
-  },
-  {
-    "id": 1643060,
-    "name": "Hayden Gray",
-    "team_id": 1610612738,
-    "team_name": "Boston Celtics",
-    "team_abbr": "BOS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643060.png"
-  },
-  {
-    "id": 1643620,
-    "name": "Tucker DeVries",
-    "team_id": 1610612738,
-    "team_name": "Boston Celtics",
-    "team_abbr": "BOS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643620.png"
-  },
-  {
     "id": 1628369,
     "name": "Jayson Tatum",
     "team_id": 1610612738,
@@ -224,20 +184,20 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643416.png"
   },
   {
-    "id": 202331,
-    "name": "Paul George",
-    "team_id": 1610612738,
-    "team_name": "Boston Celtics",
-    "team_abbr": "BOS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png"
-  },
-  {
     "id": 1631199,
     "name": "Ron Harper Jr.",
     "team_id": 1610612738,
     "team_name": "Boston Celtics",
     "team_abbr": "BOS",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631199.png"
+  },
+  {
+    "id": 202331,
+    "name": "Paul George",
+    "team_id": 1610612738,
+    "team_name": "Boston Celtics",
+    "team_abbr": "BOS",
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png"
   },
   {
     "id": 1641759,
@@ -280,14 +240,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png"
   },
   {
-    "id": 1642440,
-    "name": "Gabe McGlothan",
-    "team_id": 1610612738,
-    "team_name": "Boston Celtics",
-    "team_abbr": "BOS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642440.png"
-  },
-  {
     "id": 201144,
     "name": "Mike Conley",
     "team_id": 1610612738,
@@ -326,38 +278,6 @@
     "team_name": "Boston Celtics",
     "team_abbr": "BOS",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png"
-  },
-  {
-    "id": 1643037,
-    "name": "Noam Yaacov",
-    "team_id": 1610612739,
-    "team_name": "Cleveland Cavaliers",
-    "team_abbr": "CLE",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643037.png"
-  },
-  {
-    "id": 1643113,
-    "name": "Zack Austin",
-    "team_id": 1610612739,
-    "team_name": "Cleveland Cavaliers",
-    "team_abbr": "CLE",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643113.png"
-  },
-  {
-    "id": 1643772,
-    "name": "Rashaun Agee",
-    "team_id": 1610612739,
-    "team_name": "Cleveland Cavaliers",
-    "team_abbr": "CLE",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643772.png"
-  },
-  {
-    "id": 1643773,
-    "name": "Tre'Von Spillers",
-    "team_id": 1610612739,
-    "team_name": "Cleveland Cavaliers",
-    "team_abbr": "CLE",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643773.png"
   },
   {
     "id": 201935,
@@ -496,14 +416,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643640.png"
   },
   {
-    "id": 1642922,
-    "name": "Jalon Moore",
-    "team_id": 1610612740,
-    "team_name": "New Orleans Pelicans",
-    "team_abbr": "NOP",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642922.png"
-  },
-  {
     "id": 1642847,
     "name": "Jeremiah Fears",
     "team_id": 1610612740,
@@ -534,14 +446,6 @@
     "team_name": "New Orleans Pelicans",
     "team_abbr": "NOP",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png"
-  },
-  {
-    "id": 1641723,
-    "name": "Kobe Bufkin",
-    "team_id": 1610612740,
-    "team_name": "New Orleans Pelicans",
-    "team_abbr": "NOP",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641723.png"
   },
   {
     "id": 1627749,
@@ -696,14 +600,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643517.png"
   },
   {
-    "id": 1631115,
-    "name": "Orlando Robinson",
-    "team_id": 1610612741,
-    "team_name": "Chicago Bulls",
-    "team_abbr": "CHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631115.png"
-  },
-  {
     "id": 1643410,
     "name": "Caleb Wilson",
     "team_id": 1610612741,
@@ -728,28 +624,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png"
   },
   {
-    "id": 1641809,
-    "name": "Drew Peterson",
-    "team_id": 1610612741,
-    "team_name": "Chicago Bulls",
-    "team_abbr": "CHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641809.png"
-  },
-  {
     "id": 1631159,
     "name": "Leonard Miller",
     "team_id": 1610612741,
     "team_name": "Chicago Bulls",
     "team_abbr": "CHI",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631159.png"
-  },
-  {
-    "id": 1630527,
-    "name": "Brandon Boston",
-    "team_id": 1610612741,
-    "team_name": "Chicago Bulls",
-    "team_abbr": "CHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png"
   },
   {
     "id": 1628380,
@@ -774,14 +654,6 @@
     "team_name": "Chicago Bulls",
     "team_abbr": "CHI",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641722.png"
-  },
-  {
-    "id": 1641779,
-    "name": "Jalen Bridges",
-    "team_id": 1610612741,
-    "team_name": "Chicago Bulls",
-    "team_abbr": "CHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641779.png"
   },
   {
     "id": 1626181,
@@ -840,14 +712,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631108.png"
   },
   {
-    "id": 1642967,
-    "name": "John Poulakidas",
-    "team_id": 1610612742,
-    "team_name": "Dallas Mavericks",
-    "team_abbr": "DAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642967.png"
-  },
-  {
     "id": 1641726,
     "name": "Dereck Lively II",
     "team_id": 1610612742,
@@ -862,14 +726,6 @@
     "team_name": "Dallas Mavericks",
     "team_abbr": "DAL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630230.png"
-  },
-  {
-    "id": 203939,
-    "name": "Dwight Powell",
-    "team_id": 1610612742,
-    "team_name": "Dallas Mavericks",
-    "team_abbr": "DAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png"
   },
   {
     "id": 1631204,
@@ -944,14 +800,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630619.png"
   },
   {
-    "id": 1641754,
-    "name": "Seth Lundy",
-    "team_id": 1610612742,
-    "team_name": "Dallas Mavericks",
-    "team_abbr": "DAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641754.png"
-  },
-  {
     "id": 1642843,
     "name": "Cooper Flagg",
     "team_id": 1610612742,
@@ -982,22 +830,6 @@
     "team_name": "Dallas Mavericks",
     "team_abbr": "DAL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643547.png"
-  },
-  {
-    "id": 1641746,
-    "name": "Coleman Hawkins",
-    "team_id": 1610612743,
-    "team_name": "Denver Nuggets",
-    "team_abbr": "DEN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641746.png"
-  },
-  {
-    "id": 1641863,
-    "name": "Dane Goodwin",
-    "team_id": 1610612743,
-    "team_name": "Denver Nuggets",
-    "team_abbr": "DEN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641863.png"
   },
   {
     "id": 1631128,
@@ -1088,14 +920,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641747.png"
   },
   {
-    "id": 1641801,
-    "name": "Emanuel Miller",
-    "team_id": 1610612743,
-    "team_name": "Denver Nuggets",
-    "team_abbr": "DEN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641801.png"
-  },
-  {
     "id": 203999,
     "name": "Nikola Joki\u0107",
     "team_id": 1610612743,
@@ -1142,14 +966,6 @@
     "team_name": "Denver Nuggets",
     "team_abbr": "DEN",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png"
-  },
-  {
-    "id": 1631174,
-    "name": "Tyler Burton",
-    "team_id": 1610612744,
-    "team_name": "Golden State Warriors",
-    "team_abbr": "GSW",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631174.png"
   },
   {
     "id": 1627780,
@@ -1248,22 +1064,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png"
   },
   {
-    "id": 1631207,
-    "name": "Dalen Terry",
-    "team_id": 1610612744,
-    "team_name": "Golden State Warriors",
-    "team_abbr": "GSW",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png"
-  },
-  {
-    "id": 1642893,
-    "name": "Alex Toohey",
-    "team_id": 1610612744,
-    "team_name": "Golden State Warriors",
-    "team_abbr": "GSW",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642893.png"
-  },
-  {
     "id": 203110,
     "name": "Draymond Green",
     "team_id": 1610612744,
@@ -1312,44 +1112,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643633.png"
   },
   {
-    "id": 1641799,
-    "name": "Caleb McConnell",
-    "team_id": 1610612745,
-    "team_name": "Houston Rockets",
-    "team_abbr": "HOU",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641799.png"
-  },
-  {
-    "id": 1642951,
-    "name": "Sean Pedulla",
-    "team_id": 1610612745,
-    "team_name": "Houston Rockets",
-    "team_abbr": "HOU",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642951.png"
-  },
-  {
-    "id": 1643069,
-    "name": "Cameron Matthews",
-    "team_id": 1610612745,
-    "team_name": "Houston Rockets",
-    "team_abbr": "HOU",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643069.png"
-  },
-  {
     "id": 1643595,
     "name": "Quadir Copeland",
     "team_id": 1610612745,
     "team_name": "Houston Rockets",
     "team_abbr": "HOU",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643595.png"
-  },
-  {
-    "id": 1643809,
-    "name": "Bryce Harris",
-    "team_id": 1610612745,
-    "team_name": "Houston Rockets",
-    "team_abbr": "HOU",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643809.png"
   },
   {
     "id": 1641708,
@@ -1480,14 +1248,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
   },
   {
-    "id": 1631104,
-    "name": "Blake Wesley",
-    "team_id": 1610612746,
-    "team_name": "Los Angeles Clippers",
-    "team_abbr": "LAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png"
-  },
-  {
     "id": 1643413,
     "name": "Keaton Wagler",
     "team_id": 1610612746,
@@ -1584,14 +1344,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642394.png"
   },
   {
-    "id": 1643141,
-    "name": "Jahmyl Telfort",
-    "team_id": 1610612746,
-    "team_name": "Los Angeles Clippers",
-    "team_abbr": "LAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643141.png"
-  },
-  {
     "id": 1641757,
     "name": "Jordan Miller",
     "team_id": 1610612746,
@@ -1606,6 +1358,14 @@
     "team_name": "Los Angeles Clippers",
     "team_abbr": "LAC",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png"
+  },
+  {
+    "id": 1642353,
+    "name": "Cam Christie",
+    "team_id": 1610612746,
+    "team_name": "Los Angeles Clippers",
+    "team_abbr": "LAC",
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642353.png"
   },
   {
     "id": 1629618,
@@ -1632,44 +1392,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png"
   },
   {
-    "id": 1641877,
-    "name": "Nathan Mensah",
-    "team_id": 1610612746,
-    "team_name": "Los Angeles Clippers",
-    "team_abbr": "LAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641877.png"
-  },
-  {
-    "id": 1629671,
-    "name": "Miye Oni",
-    "team_id": 1610612746,
-    "team_name": "Los Angeles Clippers",
-    "team_abbr": "LAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629671.png"
-  },
-  {
     "id": 1641751,
     "name": "Arthur Kaluma",
     "team_id": 1610612747,
     "team_name": "Los Angeles Lakers",
     "team_abbr": "LAL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641751.png"
-  },
-  {
-    "id": 1643092,
-    "name": "Niwa Tait-Jones",
-    "team_id": 1610612747,
-    "team_name": "Los Angeles Lakers",
-    "team_abbr": "LAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643092.png"
-  },
-  {
-    "id": 1643572,
-    "name": "Rafael Castro",
-    "team_id": 1610612747,
-    "team_name": "Los Angeles Lakers",
-    "team_abbr": "LAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643572.png"
   },
   {
     "id": 1642876,
@@ -1694,14 +1422,6 @@
     "team_name": "Los Angeles Lakers",
     "team_abbr": "LAL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
-  },
-  {
-    "id": 1642261,
-    "name": "Dalton Knecht",
-    "team_id": 1610612747,
-    "team_name": "Los Angeles Lakers",
-    "team_abbr": "LAL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642261.png"
   },
   {
     "id": 1629656,
@@ -1816,22 +1536,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png"
   },
   {
-    "id": 1643019,
-    "name": "Gabe Madsen",
-    "team_id": 1610612748,
-    "team_name": "Miami Heat",
-    "team_abbr": "MIA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643019.png"
-  },
-  {
-    "id": 1643726,
-    "name": "Ezra Ausar",
-    "team_id": 1610612748,
-    "team_name": "Miami Heat",
-    "team_abbr": "MIA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643726.png"
-  },
-  {
     "id": 1631323,
     "name": "Simone Fontecchio",
     "team_id": 1610612748,
@@ -1936,14 +1640,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642352.png"
   },
   {
-    "id": 1643016,
-    "name": "Bez Mbeng",
-    "team_id": 1610612748,
-    "team_name": "Miami Heat",
-    "team_abbr": "MIA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643016.png"
-  },
-  {
     "id": 203952,
     "name": "Andrew Wiggins",
     "team_id": 1610612748,
@@ -1958,14 +1654,6 @@
     "team_name": "Miami Heat",
     "team_abbr": "MIA",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643621.png"
-  },
-  {
-    "id": 1630283,
-    "name": "Kylor Kelley",
-    "team_id": 1610612748,
-    "team_name": "Miami Heat",
-    "team_abbr": "MIA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630283.png"
   },
   {
     "id": 1642884,
@@ -2014,14 +1702,6 @@
     "team_name": "Milwaukee Bucks",
     "team_abbr": "MIL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png"
-  },
-  {
-    "id": 1629645,
-    "name": "Kevin Porter Jr.",
-    "team_id": 1610612749,
-    "team_name": "Milwaukee Bucks",
-    "team_abbr": "MIL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png"
   },
   {
     "id": 1642276,
@@ -2096,14 +1776,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png"
   },
   {
-    "id": 1641780,
-    "name": "Johni Broome",
-    "team_id": 1610612749,
-    "team_name": "Milwaukee Bucks",
-    "team_abbr": "MIL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641780.png"
-  },
-  {
     "id": 1642881,
     "name": "Bogoljub Markovi\u0107",
     "team_id": 1610612749,
@@ -2134,30 +1806,6 @@
     "team_name": "Milwaukee Bucks",
     "team_abbr": "MIL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642504.png"
-  },
-  {
-    "id": 1631250,
-    "name": "Pete Nance",
-    "team_id": 1610612749,
-    "team_name": "Milwaukee Bucks",
-    "team_abbr": "MIL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631250.png"
-  },
-  {
-    "id": 1641868,
-    "name": "Jake Stephens",
-    "team_id": 1610612749,
-    "team_name": "Milwaukee Bucks",
-    "team_abbr": "MIL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641868.png"
-  },
-  {
-    "id": 1641807,
-    "name": "Norchad Omier",
-    "team_id": 1610612750,
-    "team_name": "Minnesota Timberwolves",
-    "team_abbr": "MIN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641807.png"
   },
   {
     "id": 1628978,
@@ -2224,14 +1872,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642262.png"
   },
   {
-    "id": 1641810,
-    "name": "Antonio Reeves",
-    "team_id": 1610612750,
-    "team_name": "Minnesota Timberwolves",
-    "team_abbr": "MIN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641810.png"
-  },
-  {
     "id": 1630245,
     "name": "Ayo Dosunmu",
     "team_id": 1610612750,
@@ -2248,14 +1888,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642389.png"
   },
   {
-    "id": 1631166,
-    "name": "Drew Timme",
-    "team_id": 1610612750,
-    "team_name": "Minnesota Timberwolves",
-    "team_abbr": "MIN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631166.png"
-  },
-  {
     "id": 1642866,
     "name": "Joan Beringer",
     "team_id": 1610612750,
@@ -2270,14 +1902,6 @@
     "team_name": "Minnesota Timberwolves",
     "team_abbr": "MIN",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png"
-  },
-  {
-    "id": 1642402,
-    "name": "Enrique Freeman",
-    "team_id": 1610612750,
-    "team_name": "Minnesota Timberwolves",
-    "team_abbr": "MIN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642402.png"
   },
   {
     "id": 203497,
@@ -2310,14 +1934,6 @@
     "team_name": "Minnesota Timberwolves",
     "team_abbr": "MIN",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642911.png"
-  },
-  {
-    "id": 1630231,
-    "name": "KJ Martin",
-    "team_id": 1610612750,
-    "team_name": "Minnesota Timberwolves",
-    "team_abbr": "MIN",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png"
   },
   {
     "id": 1631169,
@@ -2544,14 +2160,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png"
   },
   {
-    "id": 1628971,
-    "name": "Bruce Brown",
-    "team_id": 1610612752,
-    "team_name": "New York Knicks",
-    "team_abbr": "NYK",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png"
-  },
-  {
     "id": 1628973,
     "name": "Jalen Brunson",
     "team_id": 1610612752,
@@ -2680,28 +2288,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642859.png"
   },
   {
-    "id": 1631103,
-    "name": "Malaki Branham",
-    "team_id": 1610612753,
-    "team_name": "Orlando Magic",
-    "team_abbr": "ORL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png"
-  },
-  {
     "id": 1630658,
     "name": "Colin Castleton",
     "team_id": 1610612753,
     "team_name": "Orlando Magic",
     "team_abbr": "ORL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630658.png"
-  },
-  {
-    "id": 1631120,
-    "name": "JD Davison",
-    "team_id": 1610612753,
-    "team_name": "Orlando Magic",
-    "team_abbr": "ORL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png"
   },
   {
     "id": 1630532,
@@ -2718,14 +2310,6 @@
     "team_name": "Orlando Magic",
     "team_abbr": "ORL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641783.png"
-  },
-  {
-    "id": 1628995,
-    "name": "Kevin Knox II",
-    "team_id": 1610612753,
-    "team_name": "Orlando Magic",
-    "team_abbr": "ORL",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png"
   },
   {
     "id": 1643593,
@@ -2766,22 +2350,6 @@
     "team_name": "Orlando Magic",
     "team_abbr": "ORL",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642869.png"
-  },
-  {
-    "id": 1643627,
-    "name": "Keba Keita",
-    "team_id": 1610612754,
-    "team_name": "Indiana Pacers",
-    "team_abbr": "IND",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643627.png"
-  },
-  {
-    "id": 1643792,
-    "name": "Rienk Mast",
-    "team_id": 1610612754,
-    "team_name": "Indiana Pacers",
-    "team_abbr": "IND",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643792.png"
   },
   {
     "id": 1630169,
@@ -2846,14 +2414,6 @@
     "team_name": "Indiana Pacers",
     "team_abbr": "IND",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642277.png"
-  },
-  {
-    "id": 201949,
-    "name": "James Johnson",
-    "team_id": 1610612754,
-    "team_name": "Indiana Pacers",
-    "team_abbr": "IND",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png"
   },
   {
     "id": 1641771,
@@ -2928,38 +2488,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png"
   },
   {
-    "id": 1642392,
-    "name": "Jameer Nelson Jr.",
-    "team_id": 1610612755,
-    "team_name": "Philadelphia 76ers",
-    "team_abbr": "PHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642392.png"
-  },
-  {
-    "id": 1643818,
-    "name": "Taye Fields",
-    "team_id": 1610612755,
-    "team_name": "Philadelphia 76ers",
-    "team_abbr": "PHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643818.png"
-  },
-  {
-    "id": 1643985,
-    "name": "Cris Carroll",
-    "team_id": 1610612755,
-    "team_name": "Philadelphia 76ers",
-    "team_abbr": "PHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643985.png"
-  },
-  {
-    "id": 1642889,
-    "name": "Labaron Philon",
-    "team_id": 1610612755,
-    "team_name": "Philadelphia 76ers",
-    "team_abbr": "PHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642889.png"
-  },
-  {
     "id": 1630178,
     "name": "Tyrese Maxey",
     "team_id": 1610612755,
@@ -2968,12 +2496,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png"
   },
   {
-    "id": 1641794,
-    "name": "Dillon Jones",
+    "id": 1642889,
+    "name": "Labaron Philon",
     "team_id": 1610612755,
     "team_name": "Philadelphia 76ers",
     "team_abbr": "PHI",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641794.png"
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642889.png"
   },
   {
     "id": 203484,
@@ -3096,22 +2624,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629605.png"
   },
   {
-    "id": 1630762,
-    "name": "Phillip Wheeler",
-    "team_id": 1610612756,
-    "team_name": "Phoenix Suns",
-    "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630762.png"
-  },
-  {
-    "id": 1631113,
-    "name": "Kennedy Chandler",
-    "team_id": 1610612756,
-    "team_name": "Phoenix Suns",
-    "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631113.png"
-  },
-  {
     "id": 1642346,
     "name": "Ryan Dunn",
     "team_id": 1610612756,
@@ -3134,14 +2646,6 @@
     "team_name": "Phoenix Suns",
     "team_abbr": "PHX",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png"
-  },
-  {
-    "id": 1629312,
-    "name": "Haywood Highsmith",
-    "team_id": 1610612756,
-    "team_name": "Phoenix Suns",
-    "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629312.png"
   },
   {
     "id": 1628379,
@@ -3176,12 +2680,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631221.png"
   },
   {
-    "id": 1642886,
-    "name": "Koby Brea",
+    "id": 1626164,
+    "name": "Devin Booker",
     "team_id": 1610612756,
     "team_name": "Phoenix Suns",
     "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642886.png"
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png"
   },
   {
     "id": 1631109,
@@ -3192,20 +2696,20 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png"
   },
   {
-    "id": 1626164,
-    "name": "Devin Booker",
-    "team_id": 1610612756,
-    "team_name": "Phoenix Suns",
-    "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png"
-  },
-  {
     "id": 1631123,
     "name": "Jamaree Bouyea",
     "team_id": 1610612756,
     "team_name": "Phoenix Suns",
     "team_abbr": "PHX",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631123.png"
+  },
+  {
+    "id": 1631166,
+    "name": "Drew Timme",
+    "team_id": 1610612756,
+    "team_name": "Phoenix Suns",
+    "team_abbr": "PHX",
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631166.png"
   },
   {
     "id": 1643520,
@@ -3230,14 +2734,6 @@
     "team_name": "Phoenix Suns",
     "team_abbr": "PHX",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png"
-  },
-  {
-    "id": 1643047,
-    "name": "CJ Huntley",
-    "team_id": 1610612756,
-    "team_name": "Phoenix Suns",
-    "team_abbr": "PHX",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643047.png"
   },
   {
     "id": 1630692,
@@ -3312,20 +2808,20 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
   },
   {
-    "id": 1642910,
-    "name": "John Tonje",
-    "team_id": 1610612757,
-    "team_name": "Portland Trail Blazers",
-    "team_abbr": "POR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642910.png"
-  },
-  {
     "id": 1630166,
     "name": "Deni Avdija",
     "team_id": 1610612757,
     "team_name": "Portland Trail Blazers",
     "team_abbr": "POR",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png"
+  },
+  {
+    "id": 1642910,
+    "name": "John Tonje",
+    "team_id": 1610612757,
+    "team_name": "Portland Trail Blazers",
+    "team_abbr": "POR",
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642910.png"
   },
   {
     "id": 1630695,
@@ -3358,14 +2854,6 @@
     "team_name": "Portland Trail Blazers",
     "team_abbr": "POR",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png"
-  },
-  {
-    "id": 1631110,
-    "name": "Jeremy Sochan",
-    "team_id": 1610612757,
-    "team_name": "Portland Trail Blazers",
-    "team_abbr": "POR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png"
   },
   {
     "id": 1642270,
@@ -3408,36 +2896,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631321.png"
   },
   {
-    "id": 1642940,
-    "name": "Viktor Lakhin",
-    "team_id": 1610612758,
-    "team_name": "Sacramento Kings",
-    "team_abbr": "SAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642940.png"
-  },
-  {
-    "id": 1641803,
-    "name": "Tristen Newton",
-    "team_id": 1610612758,
-    "team_name": "Sacramento Kings",
-    "team_abbr": "SAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641803.png"
-  },
-  {
     "id": 1628370,
     "name": "Malik Monk",
     "team_id": 1610612758,
     "team_name": "Sacramento Kings",
     "team_abbr": "SAC",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png"
-  },
-  {
-    "id": 203901,
-    "name": "Elfrid Payton",
-    "team_id": 1610612758,
-    "team_name": "Sacramento Kings",
-    "team_abbr": "SAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203901.png"
   },
   {
     "id": 1643411,
@@ -3486,14 +2950,6 @@
     "team_name": "Sacramento Kings",
     "team_abbr": "SAC",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png"
-  },
-  {
-    "id": 1641745,
-    "name": "Adam Flagler",
-    "team_id": 1610612758,
-    "team_name": "Sacramento Kings",
-    "team_abbr": "SAC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641745.png"
   },
   {
     "id": 1629631,
@@ -3704,44 +3160,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png"
   },
   {
-    "id": 1643566,
-    "name": "Lamar Wilkerson",
-    "team_id": 1610612760,
-    "team_name": "Oklahoma City Thunder",
-    "team_abbr": "OKC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643566.png"
-  },
-  {
     "id": 1643717,
     "name": "Josh Dix",
     "team_id": 1610612760,
     "team_name": "Oklahoma City Thunder",
     "team_abbr": "OKC",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643717.png"
-  },
-  {
-    "id": 1643754,
-    "name": "Christoph Tilly",
-    "team_id": 1610612760,
-    "team_name": "Oklahoma City Thunder",
-    "team_abbr": "OKC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643754.png"
-  },
-  {
-    "id": 1643992,
-    "name": "Nate Johnson",
-    "team_id": 1610612760,
-    "team_name": "Oklahoma City Thunder",
-    "team_abbr": "OKC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643992.png"
-  },
-  {
-    "id": 1641727,
-    "name": "Dariq Whitehead",
-    "team_id": 1610612760,
-    "team_name": "Oklahoma City Thunder",
-    "team_abbr": "OKC",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641727.png"
   },
   {
     "id": 1628983,
@@ -3872,44 +3296,12 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png"
   },
   {
-    "id": 1642615,
-    "name": "Tyreke Key",
-    "team_id": 1610612761,
-    "team_name": "Toronto Raptors",
-    "team_abbr": "TOR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642615.png"
-  },
-  {
     "id": 1642927,
     "name": "Nate Bittle",
     "team_id": 1610612761,
     "team_name": "Toronto Raptors",
     "team_abbr": "TOR",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642927.png"
-  },
-  {
-    "id": 1643091,
-    "name": "Tyson Degenhart",
-    "team_id": 1610612761,
-    "team_name": "Toronto Raptors",
-    "team_abbr": "TOR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643091.png"
-  },
-  {
-    "id": 1643718,
-    "name": "Nimari Burnett",
-    "team_id": 1610612761,
-    "team_name": "Toronto Raptors",
-    "team_abbr": "TOR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643718.png"
-  },
-  {
-    "id": 1643719,
-    "name": "Jalen Celestine",
-    "team_id": 1610612761,
-    "team_name": "Toronto Raptors",
-    "team_abbr": "TOR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643719.png"
   },
   {
     "id": 1642347,
@@ -4016,14 +3408,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631218.png"
   },
   {
-    "id": 1642481,
-    "name": "Jamarion Sharp",
-    "team_id": 1610612761,
-    "team_name": "Toronto Raptors",
-    "team_abbr": "TOR",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642481.png"
-  },
-  {
     "id": 1642918,
     "name": "Alijah Martin",
     "team_id": 1610612761,
@@ -4038,22 +3422,6 @@
     "team_name": "Toronto Raptors",
     "team_abbr": "TOR",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642419.png"
-  },
-  {
-    "id": 1643265,
-    "name": "Jonas Aidoo",
-    "team_id": 1610612762,
-    "team_name": "Utah Jazz",
-    "team_abbr": "UTA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643265.png"
-  },
-  {
-    "id": 1642926,
-    "name": "Tamar Bates",
-    "team_id": 1610612762,
-    "team_name": "Utah Jazz",
-    "team_abbr": "UTA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642926.png"
   },
   {
     "id": 1631127,
@@ -4110,6 +3478,14 @@
     "team_name": "Utah Jazz",
     "team_abbr": "UTA",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png"
+  },
+  {
+    "id": 1628396,
+    "name": "Tony Bradley",
+    "team_id": 1610612762,
+    "team_name": "Utah Jazz",
+    "team_abbr": "UTA",
+    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628396.png"
   },
   {
     "id": 1641725,
@@ -4200,14 +3576,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642942.png"
   },
   {
-    "id": 1643617,
-    "name": "Zach Cleveland",
-    "team_id": 1610612763,
-    "team_name": "Memphis Grizzlies",
-    "team_abbr": "MEM",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643617.png"
-  },
-  {
     "id": 1643721,
     "name": "Carson Cooper",
     "team_id": 1610612763,
@@ -4246,22 +3614,6 @@
     "team_name": "Memphis Grizzlies",
     "team_abbr": "MEM",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png"
-  },
-  {
-    "id": 1642383,
-    "name": "Walter Clayton Jr.",
-    "team_id": 1610612763,
-    "team_name": "Memphis Grizzlies",
-    "team_abbr": "MEM",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642383.png"
-  },
-  {
-    "id": 1642877,
-    "name": "Micah Peavy",
-    "team_id": 1610612763,
-    "team_name": "Memphis Grizzlies",
-    "team_abbr": "MEM",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642877.png"
   },
   {
     "id": 1642914,
@@ -4384,14 +3736,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png"
   },
   {
-    "id": 1631211,
-    "name": "Trevor Keels",
-    "team_id": 1610612764,
-    "team_name": "Washington Wizards",
-    "team_abbr": "WAS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.png"
-  },
-  {
     "id": 1629027,
     "name": "Trae Young",
     "team_id": 1610612764,
@@ -4430,14 +3774,6 @@
     "team_name": "Washington Wizards",
     "team_abbr": "WAS",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png"
-  },
-  {
-    "id": 1641753,
-    "name": "Chris Livingston",
-    "team_id": 1610612764,
-    "team_name": "Washington Wizards",
-    "team_abbr": "WAS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641753.png"
   },
   {
     "id": 1630551,
@@ -4510,14 +3846,6 @@
     "team_name": "Washington Wizards",
     "team_abbr": "WAS",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642860.png"
-  },
-  {
-    "id": 1631214,
-    "name": "Alondes Williams",
-    "team_id": 1610612764,
-    "team_name": "Washington Wizards",
-    "team_abbr": "WAS",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631214.png"
   },
   {
     "id": 1643590,
@@ -4608,14 +3936,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630198.png"
   },
   {
-    "id": 1642578,
-    "name": "John Ukomadu",
-    "team_id": 1610612765,
-    "team_name": "Detroit Pistons",
-    "team_abbr": "DET",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642578.png"
-  },
-  {
     "id": 1628381,
     "name": "John Collins",
     "team_id": 1610612765,
@@ -4638,14 +3958,6 @@
     "team_name": "Detroit Pistons",
     "team_abbr": "DET",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642450.png"
-  },
-  {
-    "id": 1642924,
-    "name": "Brice Williams",
-    "team_id": 1610612765,
-    "team_name": "Detroit Pistons",
-    "team_abbr": "DET",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642924.png"
   },
   {
     "id": 1628989,
@@ -4688,14 +4000,6 @@
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641989.png"
   },
   {
-    "id": 1641935,
-    "name": "Jarkel Joiner",
-    "team_id": 1610612766,
-    "team_name": "Charlotte Hornets",
-    "team_abbr": "CHA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641935.png"
-  },
-  {
     "id": 1642369,
     "name": "Michael Ajayi",
     "team_id": 1610612766,
@@ -4710,14 +4014,6 @@
     "team_name": "Charlotte Hornets",
     "team_abbr": "CHA",
     "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643573.png"
-  },
-  {
-    "id": 1643767,
-    "name": "Latrell Wrightsell",
-    "team_id": 1610612766,
-    "team_name": "Charlotte Hornets",
-    "team_abbr": "CHA",
-    "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1643767.png"
   },
   {
     "id": 1626220,
